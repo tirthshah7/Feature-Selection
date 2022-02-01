@@ -10,7 +10,7 @@ As our Classifiers we have used:
 2) Random Forests 
 3) Multi Layer Perceptron   
   
-We have used MATLAB library of FS for generating Ranks and giving that ranks as an input for the classifiers.  
+We have used MATLAB library of FS (by Giorgio version 7.0.2020.3) for generating Ranks and giving that ranks as an input for the classifiers.  
 
 **As a result,**    
 We are getting highest accuracy for Random Forest Classifier.
